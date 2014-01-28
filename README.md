@@ -10,6 +10,7 @@ Based on [molokai vim theme](https://github.com/tomasr/molokai)
 ![image](https://raw2.github.com/avdyushin/monokai/master/screenshot.png)
 
 ## Installation
-Copy `config-highlight.cfg` file on `~/.idlerc/`
+Copy `config-highlight.cfg` file on `~/.idlerc/`.
+Then in IDLE options open *highlighting* tab, select *custom theme*, select *Monokai*.
 
 
