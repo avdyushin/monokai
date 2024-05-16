@@ -7,7 +7,7 @@ Based on [molokai vim theme](https://github.com/tomasr/molokai)
 
 ## Screenshot
 
-![image](https://raw2.github.com/avdyushin/monokai/master/screenshot.png)
+![image](https://raw.githubusercontent.com/avdyushin/monokai/master/screenshot.png)
 
 ## Installation
 Copy `config-highlight.cfg` file on `~/.idlerc/`.
